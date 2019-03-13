@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatServer</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">REGISTER</string>
+    <string name="not_registered">not_registered</string>
+</resources>
